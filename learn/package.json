@@ -1,0 +1,15 @@
+{
+  "name": "intelligent_web_module",
+  "version": "1.0.0",
+  "description": "this is the first node.js module we create",
+  "main": "(index.js)",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Shreeve",
+  "license": "MIT"
+}
